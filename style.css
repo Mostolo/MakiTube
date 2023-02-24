@@ -160,3 +160,11 @@ input {
     margin-left: auto;
     background-color: aqua;
 }
+
+#TextInutile {
+    display: none;
+}
+
+#punti {
+    display: none;
+}
